@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://inahaole.github.io/Sgn/sitemap_index.txt
+Sitemap: https://inahaole.github.io/ZFw/sitemap_index.txt
+Sitemap: https://inahaole.github.io/giG/sitemap_index.txt
+Sitemap: https://inahaole.github.io/suF/sitemap_index.txt
